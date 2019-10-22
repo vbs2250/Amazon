@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F6F1-7D05
+
+ Directory of C:\Users\Amandeep\Desktop\Sample\export
+
+10/11/2019  10:48 AM    <DIR>          .
+10/11/2019  10:48 AM    <DIR>          ..
+10/10/2019  10:00 PM             1,344 objects.json
+10/11/2019  10:48 AM                 0 read.txt
+               2 File(s)          1,344 bytes
+               2 Dir(s)  439,476,555,776 bytes free
