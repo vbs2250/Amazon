@@ -1,5 +1,5 @@
 {
-  "objects" : {
+  "objects" : { 
     "queryPipelines" : [ {
       "id" : "test2",
       "stages" : [ {
