@@ -7,7 +7,7 @@
         "id" : "403d4c9c-16fa-423a-8b54-9207e83d5ea6",
         "fieldFacets" : [ {
           "field" : "customer_email_s",
-          "minCount" : 6,
+          "minCount" : 23,
           "missing" : false
         }, {
           "field" : "ri_id",
