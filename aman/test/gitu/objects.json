@@ -1,7 +1,7 @@
 {
   "objects" : {
     "queryPipelines" : [ {
-      "id" : "test",
+      "id" : "Diljeet",
       "stages" : [ {
         "type" : "facet",
         "id" : "403d4c9c-16fa-423a-8b54-9207e83d5ea6",
